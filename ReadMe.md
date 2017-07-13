@@ -4,17 +4,19 @@
 
 ### 1. Synopsis
 
-...Text
+* Text
 
 ### 2. Features
 
-...Text
+* Text
 
 ### 3. Monetization
 
-...Text
+* Text
 
 ### 4. Value
+
+* Text
 
 ---
 
