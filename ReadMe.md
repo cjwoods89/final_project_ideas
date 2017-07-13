@@ -1,27 +1,27 @@
-#Woods List of Final Project Ideas
+# Woods List of Final Project Ideas
 
-##Crowd Sourcing Coding Projects
+## Crowd Sourcing Coding Projects
 
-###1. Synopsis
-
-...Text
-
-###2. Features
+### 1. Synopsis
 
 ...Text
 
-###3. Monetization
+### 2. Features
 
 ...Text
 
-###4. Value
+### 3. Monetization
+
+...Text
+
+### 4. Value
 
 ---
 
-##Pokemon meets Tamagachi meets FitBit
+## Pokemon meets Tamagachi meets FitBit
 
 ---
 
-##Movie Playlist Compilation
+## Movie Playlist Compilation
 
 ---
