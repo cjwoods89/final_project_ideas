@@ -19,18 +19,32 @@
 
 ### 3. Backlog & User Story
 
-| Backlog Title       | User Story           |
-| ------------------- |:---------------------:|
-| Front End for generic landing page | x |
-| Database to store user login | x |
-| Front End for user login | x |
-| Database connection to authenticate user login | x |
-| Database to store Projects | x |
-| Front End component to show Project Database items | x |
-| Create new Projects in DB | x |
-| Edit existing Projects in DB | x |
-| Delete Existing Projects in DB | x |
-| Get new Projects in DB | x |
-| Tag Projects to user | x |
-| Add contributers to the projects | x |
+    "As a <role>, I can <action with system> so that <external benefit>"
 
+| Backlog Title | User Story |
+| ------------------- | ------------------- |
+| **Build Database** | In order to leverage the app, a database needs to be stood up to store data coming to and from the app |
+| **User Login** | As a user, I want to be able to login so that I can have user specific interaction in the app |
+| *Build User Login Schema* |  |
+| *Build User table to store User Login information* |  |
+| *Build User table Endpoint* |  |
+| *Build User Authentication Schema* |  |
+| Build User Login screen / component | x |
+| Build User Login API request | x |
+| **Build Projects Table** | As a user, I want a table manipulate this table to C.R.U.D. the Projects |
+| **Build Generic Landing Page** | As a user, I want to see something that displays instructions and a login |
+| **GET User Interaction** | As a user, I want to be able to view existing projects in the app |
+| *Build API GET request for Projects* |  |
+| *Build Front End to display GET Projects results* |  |
+| **PUT User Interaction** | As a user, I want to be able to add new projects in the app |
+| *Build API PUT request for Projects* |  |
+| *Build Front End for PUT request for Projects* |  |
+| **POST User Interaction** | As a user, I want to be able to modify existing projects in the app |
+| *Build API POST request for Projects* |  |
+| *Build Front End for POST request for Projects* |  |
+| **DELETE User Interaction** | As a user, I want to be able to modify existing projects in the app |
+| *Build API PUT request for Projects inactive* |  |
+| **User Interactivity** | As a user, I want to be able to mark projects as favorites |
+| *Modify Front End to display new data in GET request* |  |
+| *Add "Favorite Button" to Front End* |  |
+| *Build Front End with filters for new data in Projects* |  |
