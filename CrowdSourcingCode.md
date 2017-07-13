@@ -29,8 +29,8 @@
 | *Build User table to store User Login information* |  |
 | *Build User table Endpoint* |  |
 | *Build User Authentication Schema* |  |
-| Build User Login screen / component | x |
-| Build User Login API request | x |
+| Build User Login screen / component |  |
+| Build User Login API request |  |
 | **Build Projects Table** | As a user, I want a table manipulate this table to C.R.U.D. the Projects |
 | **Build Generic Landing Page** | As a user, I want to see something that displays instructions and a login |
 | **GET User Interaction** | As a user, I want to be able to view existing projects in the app |
