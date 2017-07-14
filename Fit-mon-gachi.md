@@ -21,7 +21,6 @@
         1. HP is the total health of your avatar. HP is increased based on the achieving your 
         active mins a day goal.  
         2. Attack increases the amount of damage you cause each turn. Increase this stat by 
-
         3. Speed increases to dodge your opponents attacks in battle. Increase this stat by
         maintaining your optimal heart rate. 
     
@@ -53,3 +52,5 @@
 | **** |  |
 | **** |  |
 | **** |  |
+
+### 4. Other / Note(s)
