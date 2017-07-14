@@ -1,4 +1,5 @@
 # Pokemon meets Tamagachi meets FitBit
+*Potential name: Couch Potatoe Gladiators!*
 
 ### 1. Synopsis
 
