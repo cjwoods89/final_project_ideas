@@ -11,13 +11,15 @@
     media crowd sourcing and mixes in portfolio & project management. Users of the app will 
     be able to do any of the following:
 
-    1. Browse and explore projects that need developers.
-    2. Add project proposals to solicit for developers.
-    3. Build out a profile of projects in which they were involved with.
-    4. Help provide new developers build the skills and gain experience required.
+        1. Browse and explore projects that need developers.
+        2. Add project proposals to solicit for developers.
+        3. Build out a profile of projects in which they were involved with.
+        4. Help provide new developers build the skills and gain experience required.
 
     "INSERT APP NAME HERE" helps get things done, builds experience companies want, and builds 
     confidence in the next generation of developers!
+
+    Forum for mentoring, marketplace for software engineers to hone their skills and gain experience. 
 
 ### 2. Monetization
 
@@ -57,3 +59,6 @@
 | *Modify Front End to display new data in GET request* |  |
 | *Add "Favorite Button" to Front End* |  |
 | *Build Front End with filters for new data in Projects* |  |
+
+As a User, I want to be able to log into the app and save my progress.
+As a User, I want to be able to 
