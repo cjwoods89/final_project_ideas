@@ -69,7 +69,7 @@ As a Recruiter, I want to be able to:
     ... export a list of portfolios to an external medium. 
     ... solicit interaction with the developers involved in the project. 
 
-    
+
 | Backlog Title | User Story |
 | ------------------- | ------------------- |
 | **Build Database** | In order to leverage the app, a database needs to be stood up to store data coming to and from the app |
@@ -100,8 +100,3 @@ As a Recruiter, I want to be able to:
 
 ### 4. Other / Note(s)
 
-    Glenn and Kayla have similar ideas. 
-        1. Kayla is pre-code school job fair environment and "code wars like challenges to 
-        showcase skills". 
-        2. Glenn is post-hiring process where a tool can be leveraged within a company to 
-        keep track of developer skills, capabilities, and availability. 
